@@ -4,7 +4,7 @@ Hi 👋 My name is Worapol Buraphan (PAN)
 Fullstack Developer & Software Engineer
 ---------------------------------------
 
-I'm a self-taught web developer with a passion for tech innovation in IoT and gaming. Currently, I work at SCG Digital Office in Bangkok.
+I'm a web developer with a passion for tech innovation in IoT and gaming. Currently, I work at SCG Digital Office in Bangkok.
 
 * 🌍  I'm based in Nonthaburi
 * ✉️  You can contact me at [worapol.pan.buraphan@gmail.com](mailto:worapol.pan.buraphan@gmail.com)
